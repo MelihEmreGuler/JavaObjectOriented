@@ -47,7 +47,7 @@
 
 ![Screenshot 2024-09-26 at 4.32.46 PM.png](media/Screenshot_2024-09-26_at_4.32.46_PM.png)
 
-([https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Enum.htm](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Enum.html))
+([https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Enum.html](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Enum.html))
 
 - 
     
